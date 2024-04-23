@@ -23,5 +23,7 @@ public class Endereco {
                 ", cidade='" + cidade + '\'' +
                 ", estado='" + estado + '\'' +
                 '}';
+
+
     }
 }
